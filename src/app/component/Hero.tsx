@@ -4,9 +4,9 @@
 export default function Hero() {
     return (
         <>
-            <div className="flex flex-col md:flex-row bg-yellow-100">
+            <div className="flex flex-col md:flex-row ">
                 <div className="flex flex-col w-full ">
-                    <div className=" text-[63px] p-3">
+                    <div className=" text-[63px] p-3 animate-pulse mix-blend-plus-lighter">
                         <h1 className="font-normal">Let's Ride
                             <span className="font-bold flex">
                                 The Future.
@@ -17,23 +17,23 @@ export default function Hero() {
                     <div className=" h-[48px] mx-4 m-3 my-6 text-wrap  text-gray-800 font-light">Simple and sleek design with users in mind.</div>
                     <div className="flex items-center gap-6">
                         <div className="px-3 flex gap-3 ">
-                            <img src="/Vector.png" alt=" width={14} height={14}" className="p-3 px-3 py-4 m-2 w-[40px] bg-[#42454A] text-[#F7EAE3] text-sm" />
+                            <img src="/Vector.png" alt=" width={14} height={14}" className="p-3 px-3 py-4 m-2 w-[40px] bg-[#42454A] text-[#F7EAE3] hover:bg-yellow-900 text-sm" />
                             <p className="items-center py-4 font-semibold ">Buy now</p>
                         </div>
                         <div className="flex items-center px-3 py-4 m-2 gap-3 text-[12px] w-[132px] relative  ">
                             <h1 className="p-3">Watch our video how it works</h1>
-                            <img src="/Group 1000000694.png" alt=" " width={40} height={40} className="text-center grid " />
+                            <img src="/Group 1000000694.png" alt=" " width={40} height={40} className="text-center grid animate-spin " />
                             <img src="/Vector 232.png" alt="" width={8} height={8} className="absolute placeholder:items-center top-0 left-0 opacity-0" />
                         </div>
                     </div>.
                 </div>
 
-                <div className="w-full p-3 mt-3 h-full md:h-[80px] xl:h-[90px] justify-items-center">
+                <div className="w-full p-3 mt-3 h-full md:h-[80px] xl:h-[90px] justify-items-center animate-bounce">
                     <img src="/image.svg" alt=" " width={600} height={454} />
                 </div>
               
             </div>
-            <div className="bg-blue-200">
+            <div className="  p-4 animate-pulse">
             <div className=" px-[50px] flex items-center justify-between h-[100px] w-full flex-wrap ">
                         <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
                             <h1 className="font-semibold gap-3">105 lbs</h1>
@@ -61,6 +61,16 @@ export default function Hero() {
                         </div>
                     </div>
             </div>
+            
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <hr></hr>
+            <br></br>
 
         </>
 

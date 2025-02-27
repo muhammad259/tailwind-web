@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Hero from "./component/Hero";
 import ProductInformation from "./component/ProductInformation";
+import HighEfficiency from "./component/HighEfficiency";
+import Accessories from "./component/Accessories";
 
 
 
@@ -10,6 +12,8 @@ export default function Home() {
        <div className="flex flex-col">
        <Hero/>
        <ProductInformation/>
+       <HighEfficiency/>
+       <Accessories/>
        </div>
     
    
