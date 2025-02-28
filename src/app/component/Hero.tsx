@@ -31,37 +31,37 @@ export default function Hero() {
                 <div className="w-full p-3 mt-3 h-full md:h-[80px] xl:h-[90px] justify-items-center animate-bounce">
                     <img src="/image.svg" alt=" " width={600} height={454} />
                 </div>
-              
+
             </div>
             <div className="  p-4 animate-pulse">
-            <div className=" px-[50px] flex items-center justify-between h-[100px] w-full flex-wrap ">
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
-                        <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
-                            <h1 className="font-semibold gap-3">105 lbs</h1>
-                            <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
-                        </div>
+                <div className=" px-[50px] flex items-center justify-between h-[100px] w-full flex-wrap ">
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
                     </div>
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
+                    </div>
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
+                    </div>
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
+                    </div>
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
+                    </div>
+                    <div className="w-[123px] bg-slate-50 rounded-md m-4 py-4 px-4 ">
+                        <h1 className="font-semibold gap-3">105 lbs</h1>
+                        <p className="font-light text-gray-600 font-serif text-[12px]">Net Weight</p>
+                    </div>
+                </div>
             </div>
-            
+
             <br></br>
             <br></br>
             <br></br>
