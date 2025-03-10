@@ -6,7 +6,7 @@ import Hero from "./Hero";
 export default function Header() {
     return(
       <>
-      <header className="">
+      <header className="sticky top-0 backdrop-blur-sm">
         <div className="w-full px-[50px] flex items-center justify-between h-[60px] border-b border-[#EAE8F3  scroll-smooth mt-2 ">
           
             <div className="img-parent w-[69px] h-[47px] mt-3">
